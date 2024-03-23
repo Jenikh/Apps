@@ -8,3 +8,6 @@ Please test apps in the folder **Not a malware** on your computer.<br><br>
 # Info
 Scanned with **Malwarebytes**. No issues found.<br>
 **Windows Defender** identifies these applications as trojans.
+
+# Archive
+Coming soon
